@@ -18,7 +18,7 @@ From [AWS Lambda docs](https://docs.aws.amazon.com/lambda/latest/dg/telemetry-ap
 
 Note: Please replace current S3 bucket name "lambda-extension-poc-s3-logs-esther1123" to your global unique one. 
 
-Public references: [aws-samples/aws-lambda-extensions](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-logs-api-extension/nodejs-example-logs-api-extension)
+References: [aws-samples/aws-lambda-extensions](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-logs-api-extension/nodejs-example-logs-api-extension)
 
 #### Development and Deploy
 
