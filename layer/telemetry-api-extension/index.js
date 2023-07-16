@@ -46,7 +46,6 @@ const SUBSCRIPTION_BODY = {
         "protocol": "HTTP",
         "URI": `http://${RECEIVER_NAME}:${RECEIVER_PORT}`,
     },
-    // "types": ["platform", "function"],
     "types": ["function"],
     "buffering": {
         "timeoutMs": TIMEOUT_MS,
