@@ -16,7 +16,9 @@ From [AWS Lambda docs](https://docs.aws.amazon.com/lambda/latest/dg/telemetry-ap
 
 1. Get telemetry data from Lambda via the telemetry listener. You can do any custom processing of this data, such as dispatching the data to Amazon S3 or to an external observability service. --> *telemetry-api-extension/index.js*
 
-Code references: [aws-samples/aws-lambda-extensions](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-logs-api-extension/nodejs-example-logs-api-extension)
+Note: Please replace current S3 bucket name "lambda-extension-poc-s3-logs-esther1123" to your global unique one. 
+
+Public references: [aws-samples/aws-lambda-extensions](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-logs-api-extension/nodejs-example-logs-api-extension)
 
 #### Development and Deploy
 

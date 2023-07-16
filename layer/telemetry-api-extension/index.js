@@ -30,7 +30,7 @@ async function receiverAddress() {
 }
 
 // const BUCKET_NAME = process.env.LOGS_S3_BUCKET_NAME;
-const BUCKET_NAME = 'lambda-extension-poc-s3-logs';
+const BUCKET_NAME = 'lambda-extension-poc-s3-logs-esther1123';
 // const FUNCTION_NAME = process.env.AWS_LAMBDA_FUNCTION_NAME;
 const FUNCTION_NAME = 'lambda-extension-s3-logs';
 
